@@ -34,4 +34,5 @@ namespace AngularJSAuthentication.API
             app.UseOAuthBearerAuthentication(new OAuthBearerAuthenticationOptions());
         }
     }
+
 }
